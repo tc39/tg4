@@ -1,8 +1,14 @@
-# ECMAScript - Source maps Task Group (TC39-TG4)
+# ECMAScript - Source Maps Task Group (TC39-TG4)
 
 This repository contains documents, agendas, and notes for the [ECMAScript - Source maps Task Group (TC39-TG4)](https://ecma-international.org/task-groups/tc39-tg4).
 
 See [Scope](#scope) for our mandate.
+
+## Specification
+
+- [Source Map Specification](https://github.com/tc39/source-map-spec)
+- [Source Map RFCs](https://github.com/tc39/source-map-rfc)
+- [Source Map Tests](https://github.com/tc39/source-map-tests)
 
 ## Meetings
 
